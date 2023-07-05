@@ -101,7 +101,7 @@ def random_uid():
 		banner()
 		tl = str(len(user))
 		xox(f"{K} TOTAL IDS : {K}{tl}")
-		xox(f"{H} BRUTE HAS BEEN STARTED {N}")
+		xox(f"{H} FUCKING HAS BEEN STARTED {N}")
 		xox(f"{B} WAIT AND SEE {H}✘{M}✘ {N}")
 		linex()
 		for uid in user:
