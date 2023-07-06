@@ -15,7 +15,7 @@
 
  git clone https://github.com/hridoyXhasan/HRI46Y-Uidcrck
 
-cd HRI46Y-Uidcrck
+cd Hri46Y-Uidcrck
 
 python Hri46Y.py
 
